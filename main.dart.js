@@ -76525,7 +76525,7 @@ $1(a){var s=null,r=J.aA(a)
 return A.fD(A.a([A.atb("assets/skill/"+A.f(r.h(a,"value"))+".png",70,70),B.c6,A.cD(r.h(a,"title"),s,s,s,s,A.b9(s,s,B.i,s,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s)],t.p),B.bc,B.aC,B.at)},
 $S:416}
 A.JT.prototype={
-M(a){return new A.xW(B.Fa,"Flutter Demo",A.auV(null,B.iD,null),!1,null)}}
+M(a){return new A.xW(B.Fa,"My Portfolio",A.auV(null,B.iD,null),!1,null)}}
 A.bP.prototype={
 R(a,b){return new A.bP(this.a+b.a,this.b+b.b)},
 a3(a,b){return new A.bP(this.a-b.a,this.b-b.b)},

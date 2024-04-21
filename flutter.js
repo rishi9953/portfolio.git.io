@@ -70,7 +70,7 @@ _flutter.loader = null;
      * @param {[RegExp]} validPatterns the patterns to test URLs
      * @param {String} policyName the policy name (optional)
      */
-    constructor(validPatterns, policyName = "flutter-js") {
+    constructor(validPatterns, policyName = "/.flutter-jsflutter-js") {
       const patterns = validPatterns || [
         /\.dart\.js$/,
         /^flutter_service_worker.js$/
